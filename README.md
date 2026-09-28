@@ -1,6 +1,6 @@
 # 🏡 Cozy Room Physics
 
-An interactive 2.5D cozy room built with **Vue.js 3**. This creative coding experiment features a custom physics-based swinging pendulum lamp on an HTML5 Canvas, real-time dynamic lighting, and a smooth day/night cycle.
+An interactive 2.5D cozy room built with **Vue.js 3**. This creative coding experiment features a custom physics-based swinging pendulum lamp on Canvas, real-time dynamic lighting, and a smooth day/night cycle.
 
 ## ✨ Features
 
@@ -14,7 +14,7 @@ An interactive 2.5D cozy room built with **Vue.js 3**. This creative coding expe
 
 - **Framework:** Vue 3 (Composition API)
 - **Tooling:** Vite
-- **Graphics:** HTML5 `<canvas>` (for the lamp and light beam) + CSS3
+- **Graphics:** `<canvas>` (for the lamp and light beam) + CSS3
 - **Containerization:** Docker & Docker Compose
 
 ## 🚀 Getting Started (Step-by-Step)
