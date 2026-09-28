@@ -68,7 +68,7 @@
         </div>
     </div>
     
-    <div class="hint">Arraste a lâmpada, clique no céu ou no interruptor!</div>
+    <div class="hint">Drag the lamp, click the sky or the light switch!</div>
 
     <canvas id="lampCanvas" ref="lampCanvas"></canvas>
   </div>
