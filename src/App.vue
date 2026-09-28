@@ -70,7 +70,7 @@
     
     <div class="hint">Arraste a lâmpada, clique no céu ou no interruptor!</div>
 
-    <canvas ref="lampCanvas"></canvas>
+    <canvas id="lampCanvas" ref="lampCanvas"></canvas>
   </div>
 </template>
 
